@@ -9,3 +9,7 @@ def insert_sort(l):
     return l
 
 print(insert_sort([3,2,1,4,2]))
+
+#时间复杂度：O(n²)
+#空间复杂度：O(1)
+#稳定性：稳定
